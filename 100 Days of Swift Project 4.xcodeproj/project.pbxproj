@@ -13,6 +13,7 @@
 		C21953952743C8EF00837D4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C21953932743C8EF00837D4F /* Main.storyboard */; };
 		C21953972743C8EF00837D4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C21953962743C8EF00837D4F /* Assets.xcassets */; };
 		C219539A2743C8EF00837D4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C21953982743C8EF00837D4F /* LaunchScreen.storyboard */; };
+		C21953A4274564FF00837D4F /* WebsitesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C21953A3274564FF00837D4F /* WebsitesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C21953962743C8EF00837D4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C21953992743C8EF00837D4F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C219539B2743C8EF00837D4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C21953A3274564FF00837D4F /* WebsitesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsitesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C219538D2743C8EF00837D4F /* AppDelegate.swift */,
 				C219538F2743C8EF00837D4F /* SceneDelegate.swift */,
 				C21953912743C8EF00837D4F /* ViewController.swift */,
+				C21953A3274564FF00837D4F /* WebsitesViewController.swift */,
 				C21953932743C8EF00837D4F /* Main.storyboard */,
 				C21953962743C8EF00837D4F /* Assets.xcassets */,
 				C21953982743C8EF00837D4F /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C21953A4274564FF00837D4F /* WebsitesViewController.swift in Sources */,
 				C21953922743C8EF00837D4F /* ViewController.swift in Sources */,
 				C219538E2743C8EF00837D4F /* AppDelegate.swift in Sources */,
 				C21953902743C8EF00837D4F /* SceneDelegate.swift in Sources */,
